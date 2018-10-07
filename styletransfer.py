@@ -18,9 +18,9 @@ import time
 # # Specify paths for 1) content image 2) style image and 3) generated image
 # #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~##
 
-cImPath = 'cat.jpg'
-sImPath = 'violin.jpg'
-genImOutputPath = 'output.jpg'
+cImPath = 'data/cat.jpg'
+sImPath = 'data/violin.jpg'
+genImOutputPath = 'data/output.jpg'
 
 # #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~##
 # # Image processing
